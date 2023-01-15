@@ -1,5 +1,6 @@
 # BEUROV-
 BEUROV TAKIMININ WEB SİTESİNİ YAPTIK.
+
 Bu sitemizde amaç projelerimizi tanıtmak ve yaptığımız yeni projeleri paylaşmak.
 sitenin yapımında html css js ve php kullandık.
 öncelikle Front-End kısmını yapıp sonrasında veri tabanı ekleyerekten php ile birlikte Back-End kısmını oluşturduk .
