@@ -1,6 +1,10 @@
 # BEUROV-
 BEUROV TAKIMININ WEB SİTESİNİ YAPTIK.
 
+Proje dosyasını rar dosyası olarak yükledim indirme ve dosyanın konumu bakımından kolaylık sağlaması için öyle yüklemek istedim.
+rar doyasına basıp view rar butonuna bastığınızda dosya bilgisayarınıza rahatlıkla inecektir.
+
+#DOSYANIN ÇALIŞTIRILMASI 
 Bu sitemizde amaç projelerimizi tanıtmak ve yaptığımız yeni projeleri paylaşmak.
 sitenin yapımında html css js ve php kullandık.
 öncelikle Front-End kısmını yapıp sonrasında veri tabanı ekleyerekten php ile birlikte Back-End kısmını oluşturduk .
