@@ -2,7 +2,7 @@
 BEUROV TAKIMININ WEB SİTESİNİ YAPTIK.
 
 Proje dosyasını zip dosyası olarak yükledim indirme ve dosyanın konumu bakımından kolaylık sağlaması için öyle yüklemek istedim.
-zip doyasına basıp view zip butonuna bastığınızda dosya bilgisayarınıza rahatlıkla inecektir.
+zip doyasına basıp view raw butonuna bastığınızda dosya bilgisayarınıza rahatlıkla inecektir.
 
 #DOSYANIN ÇALIŞTIRILMASI 
 
