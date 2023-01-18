@@ -1,8 +1,8 @@
 # BEUROV-
 BEUROV TAKIMININ WEB SİTESİNİ YAPTIK.
 
-Proje dosyasını rar dosyası olarak yükledim indirme ve dosyanın konumu bakımından kolaylık sağlaması için öyle yüklemek istedim.
-rar doyasına basıp view rar butonuna bastığınızda dosya bilgisayarınıza rahatlıkla inecektir.
+Proje dosyasını zip dosyası olarak yükledim indirme ve dosyanın konumu bakımından kolaylık sağlaması için öyle yüklemek istedim.
+zip doyasına basıp view zip butonuna bastığınızda dosya bilgisayarınıza rahatlıkla inecektir.
 
 #DOSYANIN ÇALIŞTIRILMASI 
 
