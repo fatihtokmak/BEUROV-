@@ -15,7 +15,9 @@ Bu projenin açılabilmesi için öncelikle Xampp uygulama panelini indirmeniz g
 Aktif hale getirdikten sonra localhosta bağlanıp veri tabanı için tablo açmanız gerekiyor. Bir veri tabanı tablosu oluşturduktan sonra koddaki veri paketleri ile doğru eşleşip eşleşmediğini kontrol ettikten sonra kendi localhostunuza girip siteyi açabilirsiniz.
 htmller arası bağlantılar için 
 https://www.w3schools.com/ daki formları kullandık.
-![image](https://user-images.githubusercontent.com/108019837/213170225-8962c5d9-65a6-4b71-85c2-41a429ebaf9b.png)
+
+formların yazı biçimleri içinde 
+https://fonts.googleapis.com/css?family=Karma daki yazı biçimlerini kullandık.
 
 
 
