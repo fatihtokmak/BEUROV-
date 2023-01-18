@@ -15,4 +15,19 @@ Bu projenin açılabilmesi için öncelikle Xampp uygulama panelini indirmeniz g
 Aktif hale getirdikten sonra localhosta bağlanıp veri tabanı için tablo açmanız gerekiyor. Bir veri tabanı tablosu oluşturduktan sonra koddaki veri paketleri ile doğru eşleşip eşleşmediğini kontrol ettikten sonra kendi localhostunuza girip siteyi açabilirsiniz.
 
 
+
+#PANEL GİRİŞİ KISMI
+
+![image](https://user-images.githubusercontent.com/108019837/213166773-7b1032ea-e4e7-4c9c-b377-7106651420f5.png)
+
+#PANEL KISMI
+
+![image](https://user-images.githubusercontent.com/108019837/213166908-cc86bf69-93e6-4bee-bc16-23f3bb3a5d1d.png)
+
+#PROJELER KISMI
+
+![image](https://user-images.githubusercontent.com/108019837/213166612-1415a853-5c3e-498a-9a6c-ea5e70681653.png)
+
+#İLETİŞİM KISMI
+
 ![image](https://user-images.githubusercontent.com/108019837/213166333-2235b30b-4cdc-431c-afc3-b305ebb0ec23.png)
